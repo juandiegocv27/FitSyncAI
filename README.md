@@ -1,7 +1,7 @@
 # FitSyncAI
 
 
-**FitSyncAI** is a Python-based application designed to generate personalized exercise plans tailored to each user's fitness goals, skill level, and available time. By leveraging AI-powered recommendation models and optimization algorithms, FitForgeAI helps users achieve their fitness objectives with customized workout routines.
+**FitSyncAI or Ejercitandose con IA** is a Python-based application designed to generate personalized exercise plans tailored to each user's fitness goals, skill level, and available time. By leveraging AI-powered recommendation models and optimization algorithms, FitForgeAI helps users achieve their fitness objectives with customized workout routines.
 
 ## 🚀 Features
 
